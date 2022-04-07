@@ -2,7 +2,7 @@
 
 CREDENTIAL = {
     user:{
-        email: 'marceloc@live.it',
-        password: '526389'
+        email: 'email',
+        password: 'senha'
     },
 }
